@@ -2,7 +2,7 @@
 
 ## This was migrated to https://github.com/rabbitmq/rabbitmq-server
 
-This repository has been moved to the main unified RabbitMQ "monorepo", including all open issues. You can find the source under [/deps/rabbitmq_web_stomp_examples](https://github.com/rabbitmq/rabbitmq-server/tree/master/deps/rabbitmq_web_stomp_examples).
+This repository has been moved to the main unified RabbitMQ "monorepo", including all open issues. You can find the source under [/deps/rabbitmq_peer_discovery_consul](https://github.com/rabbitmq/rabbitmq-server/tree/master/deps/rabbitmq_peer_discovery_consul).
 All issues have been transferred.
 
 ## Introduction
